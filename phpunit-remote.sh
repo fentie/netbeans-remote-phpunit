@@ -2,7 +2,6 @@
 #echo $@ #uncomment to debug
 
 REMOTE_SERVER=user@virtualhost
-LOCAL_PATH_TO_TESTS='/path/to/tests'
 REMOTE_PATH_TO_TESTS='/path/to/tests'
 
 # The very last argument is the path to the test(s) you want run
